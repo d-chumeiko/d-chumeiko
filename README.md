@@ -1,13 +1,17 @@
 ## 👋 Hi, my name's **Dmytryi Chumeiko**
-<br />
-🏠 I'm a **FullStack JS Developer** from Kharkiv, Ukraine <br />
-👀 I’m interested in performing difficult and interesting tasks, permanent self-education and sport <br />
-⚙️ I’m currently working for EPAM Systems <br />
+
+
+🏠 I'm a **FullStack JS Developer** from Kharkiv, Ukraine
+
+👀 I’m interested in performing difficult and interesting tasks, permanent self-education and sport
+
+⚙️ I’m currently working for EPAM Systems
+
 🔎 How to reach me:
   - Mail me: dmitryi-chumeiko@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/d-chumeiko/)
   - Telegram: @dmitryi_ch
-<br />
+
 ### Languages and Technologies ###
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&color=rgba(0,0,0,0.4))
