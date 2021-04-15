@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ### Languages and Technologies ###
-![](https://img.shields.io/badge/-HTML-"rgba(0, 0, 0, 0.3)"?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&color=rgba(0,0,0,0.3)
