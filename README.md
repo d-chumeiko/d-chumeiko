@@ -10,7 +10,7 @@
 🔎 How to reach me:
   - Mail me: dmitryi-chumeiko@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/d-chumeiko/)
-  - Telegram: @dmitryi_ch
+  - [Telegram](https://t.me/dmitryi_ch)
 
 ### Languages and Technologies ###
 
