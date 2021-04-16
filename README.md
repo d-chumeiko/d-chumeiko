@@ -36,4 +36,4 @@
 
 
 
-![](https://hackernoon.com/hn-images/1*zDY1styY9gAbl9DEeAS6DA.jpeg)
+![](https://itproger.com/img/news/1540394188.jpg)
