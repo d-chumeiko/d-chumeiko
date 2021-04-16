@@ -8,7 +8,7 @@
 ⚙️ I’m currently working for EPAM Systems
 
 🔎 How to reach me:
-  - Mail me: dmitryi-chumeiko@gmail.com
+  - dmitryi-chumeiko@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/d-chumeiko/)
   - [Telegram](https://t.me/dmitryi_ch)
 
