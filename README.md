@@ -12,6 +12,8 @@
   - [LinkedIn](https://www.linkedin.com/in/d-chumeiko/)
   - [Telegram](https://t.me/dmitryi_ch)
 
+📋 Resume: [view](https://d-chumeiko.github.io/)
+
 ### Languages and Technologies ###
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&color=rgba(0,0,0,0.4))
