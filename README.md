@@ -34,3 +34,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&color=rgba(0,0,0,0.4))
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&color=rgba(0,0,0,0.4))
 
+
+
+![](https://hackernoon.com/hn-images/1*zDY1styY9gAbl9DEeAS6DA.jpeg)
