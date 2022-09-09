@@ -1,4 +1,4 @@
-## 👋 Hi, my name's **Dmytryi Chumeiko**
+## 👋 Hi, my name's **Dima Chumeiko**
 
 
 🏠 I'm a **FullStack JS Developer** from Kharkiv, Ukraine
