@@ -12,7 +12,7 @@
   - [LinkedIn](https://www.linkedin.com/in/d-chumeiko/)
   - [Telegram](https://t.me/dmitryi_ch)
 
-📋 Resume: [view](https://github.com/d-chumeiko/d-chumeiko/blob/main/ChumeikoDima%20resume.pdf)
+📋 Resume: [view](https://github.com/d-chumeiko/d-chumeiko/blob/main/Dima%20Chumeiko%20CV.pdf)
 
 ### Languages and Technologies ###
 
