@@ -12,7 +12,7 @@
   - [LinkedIn](https://www.linkedin.com/in/d-chumeiko/)
   - [Telegram](https://t.me/dmitryi_ch)
 
-📋 Resume: [view](https://drive.google.com/file/d/1o5_Xq6N2Q47FYKZ2sjs5GCq5rCJrNFDE/view?usp=share_link)
+📋 Resume: [view](https://drive.google.com/file/d/19ba7kvPEZXthKdRYUX6NrugD-edub4Fc/view)
 
 ### Languages and Technologies ###
 
